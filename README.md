@@ -1,8 +1,8 @@
 ## Olá, sou a Ingrid Borges. Bem-vindo(a)!
 <div>
   <a href="https://github.com/ihborges">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ihborges&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihborges&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=ihborges&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihborges&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
