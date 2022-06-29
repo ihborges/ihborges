@@ -21,7 +21,7 @@
   <a href="https://linkedin.com/in/eu-ingrid-borges" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/ihborges/ihborges/blob/main/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ihborges/ihborges/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **ihborges/ihborges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
